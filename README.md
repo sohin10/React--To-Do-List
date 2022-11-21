@@ -12,21 +12,21 @@ The tasks are divided into subcomponents so that each subcomponent follows to th
 
 ## My components are split into 5 tasks
 
-1.OverallAppComponent - contains entirety of the app
-2.MainTaskTable - contains all task components
-3.EachTaskGroup - Each task is put into groups
-4.DailyTask - Daily task information 
-5.UserTask - User duplicates main task group 
-6.UserInput -  User inputs data and buttons
+1. OverallAppComponent - contains entirety of the app
+2. MainTaskTable - contains all task components
+3. EachTaskGroup - Each task is put into groups
+4. DailyTask - Daily task information 
+5. UserTask - User duplicates main task group 
+6. UserInput -  User inputs data and buttons
 
 
 ### Arranging components into hierarchy: 
-OverallAppComponent
-UserTask
-MainTaskTable
-EachTaskGroup
-DailyTask
-UserInput
+1. OverallAppComponent
+-  UserTask
+- MainTaskTable
+2. EachTaskGroup
+-  DailyTask
+-  UserInput
 
 
 ## Identify The Minimal (but complete) Representation Of UI State

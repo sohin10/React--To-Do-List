@@ -12,12 +12,12 @@ The tasks are divided into subcomponents so that each subcomponent follows to th
 
 ## My components are split into 5 tasks
 
-OverallAppComponent - contains entirety of the app
-MainTaskTable - contains all task components
-EachTaskGroup - Each task is put into groups
-DailyTask - Daily task information 
-UserTask - User duplicates main task group 
-UserInput -  User inputs data and buttons
+1.OverallAppComponent - contains entirety of the app
+2.MainTaskTable - contains all task components
+3.EachTaskGroup - Each task is put into groups
+4.DailyTask - Daily task information 
+5.UserTask - User duplicates main task group 
+6.UserInput -  User inputs data and buttons
 
 
 ### Arranging components into hierarchy: 

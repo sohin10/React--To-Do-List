@@ -24,9 +24,9 @@ The tasks are divided into subcomponents so that each subcomponent follows to th
 1. OverallAppComponent
 -  UserTask
 - MainTaskTable
-2. EachTaskGroup
--  DailyTask
--  UserInput
+-- EachTaskGroup
+--- DailyTask
+--- UserInput
 
 
 ## Identify The Minimal (but complete) Representation Of UI State

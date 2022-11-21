@@ -25,8 +25,8 @@ The tasks are divided into subcomponents so that each subcomponent follows to th
    -  UserTask
    - MainTaskTable
      - EachTaskGroup
-       -- DailyTask
-       -- UserInput
+       - DailyTask
+       - UserInput
 
 
 
